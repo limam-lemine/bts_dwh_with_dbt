@@ -8,7 +8,7 @@ os.makedirs(OUT_DIR, exist_ok=True)
 BASE = ("https://transtats.bts.gov/PREZIP/"
         "On_Time_Reporting_Carrier_On_Time_Performance_1987_present_{y}_{m}.zip")
 
-# 2025 full year + 2026 from January (months not published yet are skipped automatically)
+# 2025 + 2026 
 periods = [(2025, m) for m in range(1, 13)] + [(2026, m) for m in range(1, 13)]
 
 for y, m in periods:
