@@ -1,0 +1,10 @@
+.venv/
+.env
+*.p8
+*.pem
+data/
+*.csv
+logs/
+target/
+dbt_packages/
+__pycache__/

@@ -1,0 +1,9 @@
+sources:
+  - name: bts
+    database: raw 
+    schema: bts
+    tables: 
+      - name: bts_data
+        description: Raw data of 2025 and 2026 flights
+        columns: 
+          - name:

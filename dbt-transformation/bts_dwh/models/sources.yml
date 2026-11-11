@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: bts
+    database: raw
+    schema: bts
+    tables:
+      - name: bts_data
