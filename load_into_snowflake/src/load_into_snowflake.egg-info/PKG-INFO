@@ -1,9 +1,0 @@
-Metadata-Version: 2.4
-Name: load-into-snowflake
-Version: 0.1.0
-Summary: Modular ELT pipeline for BTS data
-Requires-Python: >=3.10
-Requires-Dist: pandas
-Requires-Dist: requests
-Requires-Dist: snowflake-connector-python
-Requires-Dist: python-dotenv
