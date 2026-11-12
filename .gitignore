@@ -10,3 +10,5 @@ dbt_packages/
 __pycache__/
 *.pub
 .pytest_cache/
+*.egg-info/
+rsa_key.pub
