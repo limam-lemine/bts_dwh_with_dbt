@@ -8,3 +8,5 @@ logs/
 target/
 dbt_packages/
 __pycache__/
+*.pub
+.pytest_cache/

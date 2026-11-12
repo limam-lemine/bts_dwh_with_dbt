@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+load_into_snowflake/src/load_into_snowflake/__init__.py
+load_into_snowflake/src/load_into_snowflake/download_data.py
+load_into_snowflake/src/load_into_snowflake/ingest_load_into_snowflake.py
+load_into_snowflake/src/load_into_snowflake/load_into_snowflake.py
+load_into_snowflake/src/load_into_snowflake.egg-info/PKG-INFO
+load_into_snowflake/src/load_into_snowflake.egg-info/SOURCES.txt
+load_into_snowflake/src/load_into_snowflake.egg-info/dependency_links.txt
+load_into_snowflake/src/load_into_snowflake.egg-info/requires.txt
+load_into_snowflake/src/load_into_snowflake.egg-info/top_level.txt
